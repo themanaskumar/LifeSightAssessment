@@ -12,6 +12,8 @@ This repository contains the code and documentation for a Marketing Mix Model (M
 
 **2. LifeSight_Assessment_2_mmm.ipynb:** This is the google colab notebook where I did all the work i.e. data preparation, feature engineering, model trainin and evaluation etc.
 
+Google Colab Link: [MMM Notebook - Google Colab](https://colab.research.google.com/drive/1rjbpruKBo2-_9tcSd3w41WEwu2yr1lFz?usp=sharing)
+
 **3. LifeSight_Assessment2_Report.pdf:** This file contains a detailed report on the project that I made during this assessment.
 
 **4. mmm_gbt_model.pkl:** This is the actual ML model that was created for the fulfilment of this assessment.
